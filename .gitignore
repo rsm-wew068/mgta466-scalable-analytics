@@ -1,0 +1,29 @@
+# Large Data Files (excluded to keep repository manageable)
+BookReviews_1M.txt
+Airline_2016_2018.csv
+results.txt
+
+# Generated Output Files
+*.log
+*.tmp
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db 
