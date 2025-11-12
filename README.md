@@ -1,4 +1,4 @@
-# MGTA 466: Scalable Analytics - Programming Assignments
+# MGTA 466: Scalable Analytics
 
 This repository contains the programming assignments for MGTA 466: Scalable Analytics course. Each assignment builds upon the previous ones, teaching students progressively more advanced concepts in distributed computing, big data processing, and cloud-based analytics.
 
