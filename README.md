@@ -1,19 +1,11 @@
 # MGTA 466: Scalable Analytics
 
-This repository contains the programming assignments for MGTA 466: Scalable Analytics course. Each assignment builds upon the previous ones, teaching students progressively more advanced concepts in distributed computing, big data processing, and cloud-based analytics.
-
 ## 📁 Repository Structure
 
-### **Included Files:**
 - **Notebooks**: All Jupyter notebooks with complete solutions
 - **Small Output Files**: Sample results showing assignment completion
 - **Small Datasets**: Wine classification and salary datasets
 - **Documentation**: Comprehensive README with data usage matrix
-
-### **Excluded Files (Large Data):**
-- `BookReviews_1M.txt` (209MB) - Available from course materials
-- `Airline_2016_2018.csv` (2.3GB) - Available from course materials
-- `results.txt` (78MB) - Generated output file
 
 *Note: Large data files are excluded to keep repository size manageable. These files are available through the course materials and cloud storage.*
 
