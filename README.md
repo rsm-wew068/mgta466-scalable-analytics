@@ -50,7 +50,6 @@ Introduction to PySpark and Hadoop Distributed File System (HDFS) for distribute
   - **Structure**: Each line contains a complete book review text
 - **Processing**: Text extraction and transformation
 - **Output**: Processed text file with transformed data
-- **Points**: 7.5 total points
 
 ---
 
@@ -83,7 +82,6 @@ Advanced PySpark operations for text processing and performance analysis across 
 - **Processing**: Word extraction, filtering, counting, and sorting
 - **Performance Analysis**: 3 trials each for 1, 2, and 4 cores
 - **Output Files**: `100_words.csv`, `exec_times.csv`
-- **Points**: 15 total points
 
 ---
 
@@ -118,7 +116,6 @@ Exploratory Data Analysis on real-world airline data using PySpark and matplotli
 - **Features**: Flight dates, carriers, origins, distances, delays
 - **Visualizations**: Bar charts, pie charts with specific formatting
 - **Output Files**: `50_rows.csv` with filtered data
-- **Points**: 20 total points
 
 ---
 
@@ -152,7 +149,6 @@ Cloud-based distributed computing using Amazon EMR (Elastic MapReduce) for large
 - **Cloud Platform**: Amazon EMR with S3 storage
 - **Cluster Configurations**: Various master/worker node combinations
 - **Output Files**: `50_words.csv`, `exec_times.csv`
-- **Points**: 15 total points
 
 ---
 
